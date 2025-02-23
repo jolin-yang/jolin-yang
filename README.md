@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Jolin Yang, and I'm a current first-year CS student @ Northeastern University!
 
 <!--
 **jolin-yang/jolin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
