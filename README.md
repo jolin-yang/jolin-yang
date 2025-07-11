@@ -47,7 +47,13 @@ Some (personal and school-related) projects I've worked on:
 - Personal website!
 - ML + AI
 - React framework
-     
+
+<br> 
+## 📫: **How to Contact Me**:  
+Email: yang.jol@northeastern.edu  
+LinkedIn: https://www.linkedin.com/in/jolin-yang-ba8241246/  
+
+
 
 
 <!--
