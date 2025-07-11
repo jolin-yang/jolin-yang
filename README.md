@@ -26,8 +26,8 @@ Coming soon!
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy) 
 ![Static Badge](https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-Seaborn, Matplotlib    
+![Static Badge](https://img.shields.io/badge/seaborn-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/matplotlib-navy?style=for-the-badge)   
 
 **Web Dev**:    
 ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
