@@ -43,7 +43,7 @@ Some (personal and school-related) projects I've worked on:
      
 <br>
 
-## ✏️ **What I'm currently learning/working on** 
+## ✏️ **What I'm Currently Learning/Working on** 
 - Personal website!
 - ML + AI
 - React framework
