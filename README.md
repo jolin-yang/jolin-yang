@@ -9,7 +9,7 @@ I'm currently strengthening my foundation in Machine Learning and Artificial Int
 
 I'm eager to apply my skills to research or internship settings, where I'll be able to develop my technical skills, contribute to meaningful projects, and learn from seasoned professionals in the tech industry!  
 
-# 🛠 Tech Stack: 
+## 🛠 Tech Stack: 
 Languages: Python, Java, C++ 
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow 
 Web Dev: HTML, CSS, JavaScript (basic), Node.js 
