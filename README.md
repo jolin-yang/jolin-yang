@@ -75,7 +75,7 @@ Some (personal and school-related) projects I've worked on:
 
 ## 📫 **How to Contact Me**:  
 Email: yang.jol@northeastern.edu  
-LinkedIn: [https://www.linkedin.com/in/jolin-yang-ba8241246/](https://www.linkedin.com/in/jolinyang/)  
+LinkedIn: https://www.linkedin.com/in/jolinyang/
 
 <br>
 
