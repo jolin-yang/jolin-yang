@@ -19,7 +19,7 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 
 <br>
 
-## 🚀 Projects
+## 🚀  Projects
 Some (personal and school-related) projects I've worked on: 
 1. 🎮 **Minesweeper Game**  
    Designed a Minesweeper-inspired game, employing object-oriented programming principles and human-centered interaction design.  
