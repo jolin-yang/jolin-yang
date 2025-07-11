@@ -1,4 +1,4 @@
-##  👋 Hi there, I'm Jolin!
+##  👋 Hi there, I'm Jolin (she/her)!
 **🎓 Rising sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
 👩🏻‍💻 Aspiring Software Engineer  
 🌐 Tech and data enthusiast** 
@@ -43,7 +43,7 @@ Some (personal and school-related) projects I've worked on:
      
 <br>
 
-## ✏️ **What I'm Currently Learning/Working on** 
+## 🌱 **What I'm Currently Learning/Working on** 
 - Personal website!
 - ML + AI
 - React framework
@@ -54,8 +54,13 @@ Some (personal and school-related) projects I've worked on:
 Email: yang.jol@northeastern.edu  
 LinkedIn: https://www.linkedin.com/in/jolin-yang-ba8241246/  
 
+<br>
 
+## ✨ **Extracurrulars + Interests**:  
+📊 Northeastern Oasis - Co-Director of Marketing 
+💬 HackBeanpot - Sponsorship Coordinator  
 
+During my free time, you can catch me listening to music, baking, going to the beach, reading, trying new boba places, and playing tennis! 
 
 <!--
 **jolin-yang/jolin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
