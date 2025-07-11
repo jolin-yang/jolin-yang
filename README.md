@@ -10,16 +10,19 @@ I'm currently strengthening my foundation in Machine Learning and Artificial Int
 I'm eager to apply my skills to research or internship settings, where I'll be able to develop my technical skills, contribute to meaningful projects, and learn from seasoned professionals in the tech industry!  
 
 ## 🛠 Tech Stack: 
-Languages: Python, Java, C++     
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow    
-Web Dev: HTML, CSS, JavaScript (basic), Node.js    
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub   
+**Languages**: Java, Python, Racket   
+**Data Science**: Pandas, NumPy, scikit-learn, Seaborn, Matplotlib  
+**Web Dev**: HTML, CSS, JavaScript   
+**Tools**: Jupyter Notebooks, Google Colab, Github, Git   
 
-🎯 Featured Project: Sentiment Analysis for American Express
-
-🎮 Featured Project: 
-
-
+## 🎮 Key Project: Minesweeper Game   
+**What I did**: Designed a Minesweeper-inspired game, employing object-oriented programming principles and human-centered interaction design.   
+**Tools**: Java, Eclipse   
+**Result**: Implemented a fully functional game that included all aspects of the original Minesweeper game with some additional enhancements: 
+- Flagging: Players can right-click on the cells they suspect to be mines to flag them
+- Neighboring cell count: When the player clicks on a non-mine cell, it reveals the number of mines neighboring it
+- Floodfill effect: When the player clicks on a non-mine cell with zero neighboring mines, the game recursively reveals all adjacent non-mine cells in a cascading flood-fill-like manner, uncovering an entire region of connected non-mine cells until it reaches a cell with a non-zero neighboring mine count. 
+- Restart: Players can click on the return key after winning/losing to restart the game with a new layout of mines
 
 <!--
 **jolin-yang/jolin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
