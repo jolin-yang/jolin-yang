@@ -10,6 +10,7 @@ I'm currently strengthening my foundation in Machine Learning and Artificial Int
 I'm eager to apply my skills to research or internship settings, where I'll be able to develop my technical skills, contribute to meaningful projects, and learn from seasoned professionals in the tech industry!
 
 <br>
+
 ## 🛠 Tech Stack: 
 **Languages**: Java, Python, Racket   
 **Data Science**: Pandas, NumPy, scikit-learn, Seaborn, Matplotlib  
@@ -17,6 +18,7 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 **Tools**: Jupyter Notebooks, Google Colab, Github, Git       
 
 <br>
+
 ## 🚀 Projects
 Some (personal and school-related) projects I've worked on: 
 1. 🎮 **Minesweeper Game**  
@@ -40,6 +42,7 @@ Some (personal and school-related) projects I've worked on:
    - **Learnings**: Game development    
      
 <br>
+
 ## ✏️ **What I'm currently learning/working on** 
 - Personal website!
 - ML + AI
