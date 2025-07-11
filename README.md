@@ -21,6 +21,8 @@ Coming soon!
 
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/Racket-%239F1D20?style=for-the-badge&logo=racket&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/Java-purple?style=for-the-badge)
+
   
 
 
