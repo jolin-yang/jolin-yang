@@ -37,7 +37,7 @@ Some (personal and school-related) projects I've worked on:
      - Best guess solver: outputs best guess for target word based on min average # of guesses and min duplicate scores to words in target bank
    - **Learnings**: Game development
 
-## 📚 **What I'm learning/working on** 
+## 📚 **What I'm currently learning/working on** 
 - Personal website
 - ML + AI
 
