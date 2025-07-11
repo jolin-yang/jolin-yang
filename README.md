@@ -22,13 +22,21 @@ Coming soon!
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/Racket-%239F1D20?style=for-the-badge&logo=racket&logoColor=white) 
 
-  
+**Data Science**:    
+![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
+![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy) 
+![Static Badge](https://img.shields.io/badge/scikit-learn-%23F7931E?style=for-the-badge&logo=scikit-learn)
+Seaborn, Matplotlib    
 
+**Web Dev**:    
+![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![Static Badge](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
 
-Java, Python, Racket   
-**Data Science**: Pandas, NumPy, scikit-learn, Seaborn, Matplotlib  
-**Web Dev**: HTML, CSS, JavaScript   
-**Tools**: Jupyter Notebooks, Google Colab, Github, Git       
+**Tools**:   
+![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+Google Colab, Github, Git       
 
 <br>
 
