@@ -25,7 +25,8 @@ Coming soon!
 **Data Science**:    
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy) 
-![Static Badge](https://img.shields.io/badge/scikit-learn-%23F7931E?style=for-the-badge&logo=scikit-learn)
+![Static Badge](https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 Seaborn, Matplotlib    
 
 **Web Dev**:    
@@ -35,8 +36,9 @@ Seaborn, Matplotlib
 
 **Tools**:   
 ![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-Google Colab, Github, Git       
+![Static Badge](https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
 
