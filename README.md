@@ -56,7 +56,7 @@ LinkedIn: https://www.linkedin.com/in/jolin-yang-ba8241246/
 
 <br>
 
-## ✨ **Extracurrulars + Interests**:  
+## ✨ **Extracurriculars + Interests**:  
 📊 Northeastern Oasis - Co-Director of Marketing   
 💬 HackBeanpot - Sponsorship Coordinator  
 
