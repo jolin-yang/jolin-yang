@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Jolin Yang, and I'm a rising 2nd-year Computer Science student @ Northeastern University!
+##  👋 Hi there, I'm Jolin!
+My name is Jolin Yang, and I'm a rising 2nd-year Computer Science student @ Northeastern University!
 
 <!--
 **jolin-yang/jolin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
