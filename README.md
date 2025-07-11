@@ -11,6 +11,11 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 
 <br>
 
+## 🎯 **Featured Project**:  
+Coming soon!
+
+<br>
+
 ## 🛠 Tech Stack: 
 **Languages**: Java, Python, Racket   
 **Data Science**: Pandas, NumPy, scikit-learn, Seaborn, Matplotlib  
