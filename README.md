@@ -17,7 +17,10 @@ Coming soon!
 <br>
 
 ## 🛠 Tech Stack: 
-**Languages**: Java, Python, Racket   
+**Languages**: ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white),   
+
+
+Java, Python, Racket   
 **Data Science**: Pandas, NumPy, scikit-learn, Seaborn, Matplotlib  
 **Web Dev**: HTML, CSS, JavaScript   
 **Tools**: Jupyter Notebooks, Google Colab, Github, Git       
