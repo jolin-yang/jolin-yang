@@ -18,7 +18,7 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 ## 🎮 Key Project: Minesweeper Game   
 **What I did**: Designed a Minesweeper-inspired game, employing object-oriented programming principles and human-centered interaction design.   
 **Tools**: Java, Eclipse   
-**Result**: Implemented a fully functional game that included all aspects of the original Minesweeper game with some additional enhancements: 
+**Result**: Implemented a fully functional game that included all aspects of the original Minesweeper game with some additional enhancements:
 - Flagging: Players can right-click on the cells they suspect to be mines to flag them
 - Neighboring cell count: When the player clicks on a non-mine cell, it reveals the number of mines neighboring it
 - Floodfill effect: When the player clicks on a non-mine cell with zero neighboring mines, the game recursively reveals all adjacent non-mine cells in a cascading flood-fill-like manner, uncovering an entire region of connected non-mine cells until it reaches a cell with a non-zero neighboring mine count. 
