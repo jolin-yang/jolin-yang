@@ -1,6 +1,7 @@
 ##  👋 Hi there, I'm Jolin!
-My name is Jolin Yang, and I'm a rising 2nd-year Computer Science student @ Northeastern University!
-
+🎓 Rising sophomore @ Northeastern University, studying Computer Science with a concentration in AI
+👩🏻‍💻 Aspiring Software Engineer 
+🌐 Passionate about all-things tech
 <!--
 **jolin-yang/jolin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
