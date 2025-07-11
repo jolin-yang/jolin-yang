@@ -49,7 +49,7 @@ Some (personal and school-related) projects I've worked on:
 - React framework
 
 <br> 
-## 📫: **How to Contact Me**:  
+## 📫 **How to Contact Me**:  
 Email: yang.jol@northeastern.edu  
 LinkedIn: https://www.linkedin.com/in/jolin-yang-ba8241246/  
 
