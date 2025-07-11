@@ -40,6 +40,7 @@ Some (personal and school-related) projects I've worked on:
 ## ✏️ **What I'm currently learning/working on** 
 - Personal website!
 - ML + AI
+- React framework
 
 
 
