@@ -3,7 +3,7 @@
 👩🏻‍💻 Aspiring Software Engineer  
 🌐 Tech and data enthusiast** 
 
-I enjoy working with data to develop impactful solutions that address real-world problems and leveraging technology to make a difference in people's lives, with a focus on tackling algorithmic biases. I'm a strong advocate of bringing more inclusivity to today's tech space and breaking down the stereotypes and preconceptions surrounding this industry. 
+I enjoy working with data to develop impactful solutions that address real-world problems and leveraging technology to make a difference in people's lives, with a focus on tackling algorithmic biases. I'm a strong advocate of making today's tech space more inclusive and breaking down the stereotypes and preconceptions surrounding this industry. 
 
 I'm currently strengthening my foundation in Machine Learning and Artificial Intelligence through Break Through Tech's AI program, hosted at MIT Schwarzman College of Computing, where I've gained hands-on experience training and building machine learning models using real-world datasets. I'm eager to apply my skills to research or internship settings, where I'll be able to develop my technical skills, contribute to meaningful projects, and learn from seasoned professionals in the tech industry. 
 
