@@ -1,5 +1,5 @@
 ##  👋 Hi there, I'm Jolin!
-🎓 Rising sophomore @ Northeastern University, studying Computer Science with a concentration in AI 
+🎓 Rising sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
 👩🏻‍💻 Aspiring Software Engineer  
 🌐 Passionate about all-things tech 
 <!--
