@@ -8,7 +8,7 @@ I enjoy working with data and applying Machine Learning to develop impactful sol
 I'm currently strengthening my foundation in Machine Learning and Artificial Intelligence through Break Through Tech's AI program, hosted at MIT Schwarzman College of Computing, where I've gained hands-on experience training and building machine learning models using real-world datasets. With AI's ever-growing impact on society, I'm excited to explore the processes that shape AI and delve into the different ways it can be used for social good.  
 
 I'm eager to apply my skills to research or internship settings, where I'll be able to develop my technical skills, contribute to meaningful projects, and learn from seasoned professionals in the tech industry!      
-
+  
 
 ## 🛠 Tech Stack: 
 **Languages**: Java, Python, Racket   
