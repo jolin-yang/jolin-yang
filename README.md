@@ -17,7 +17,7 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 
 ## 🚀 Projects
 Some (personal and school-related) projects I've worked on: 
-1. **Minesweeper Game**  
+1. 🎮 **Minesweeper Game**  
    Designed a Minesweeper-inspired game, employing object-oriented programming principles and human-centered interaction design.  
    - **Tech Stack**: Java, Eclipse  
    - **Result**: Implemented a fully functional game that included all aspects of the original Minesweeper game with some additional enhancements:  
@@ -27,7 +27,7 @@ Some (personal and school-related) projects I've worked on:
      - Restart: Players can click on the return key after winning/losing to restart the game with a new layout of mines
    - **Learnings**: Game development, game design
 
-2. **Wordle Game**  
+2. 📝 **Wordle Game**  
    Designed a Wordle-inspired game with a unique spin and some added enhancements.  
    - **Tech Stack**: Java
    - **Result**: Implemented a fully functional game that included key aspects of the original Wordle game with some additional enhancements:
