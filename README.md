@@ -38,7 +38,7 @@ Some (personal and school-related) projects I've worked on:
    - **Learnings**: Game development
 
 ## ✏️ **What I'm currently learning/working on** 
-- Personal website
+- Personal website!
 - ML + AI
 
 
