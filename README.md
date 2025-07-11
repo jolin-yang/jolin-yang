@@ -15,6 +15,7 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 **Web Dev**: HTML, CSS, JavaScript   
 **Tools**: Jupyter Notebooks, Google Colab, Github, Git   
 
+
 ## 🚀 Projects
 Some (personal and school-related) projects I've worked on: 
 1. 🎮 **Minesweeper Game**  
@@ -27,6 +28,7 @@ Some (personal and school-related) projects I've worked on:
      - Restart: Players can click on the return key after winning/losing to restart the game with a new layout of mines
    - **Learnings**: Game development, game design
 
+
 2. 📝 **Wordle Game**  
    Designed a Wordle-inspired game with a unique spin and some added enhancements.  
    - **Tech Stack**: Java
@@ -36,6 +38,7 @@ Some (personal and school-related) projects I've worked on:
      - Word validator: Validates user’s guess is an actual 5-letter word from target bank; if not, prompts user to guess again
      - Best guess solver: outputs best guess for target word based on min average # of guesses and min duplicate scores to words in target bank
    - **Learnings**: Game development
+
 
 ## ✏️ **What I'm currently learning/working on** 
 - Personal website!
