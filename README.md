@@ -19,6 +19,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
   - Trained, evaluated, and optimized four different classifiers: Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Decision Tree.
   - Obtained a final AUC of 0.92, log loss of 0.28, and accuracy of 0.87 on testing data.
 - **Learnings**: Building an end-to-end ML pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
+https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier 
 
 
 <br>
@@ -59,7 +60,8 @@ Some (personal and school-related) projects I've worked on:
      - Neighboring mine count: When the player clicks on a non-mine cell, it reveals the number of mines neighboring it
      - Floodfill effect: When the player clicks on a non-mine cell with zero neighboring mines, the game recursively reveals all adjacent non-mine cells in a cascading flood-fill-like manner, uncovering an entire region of connected non-mine cells until it reaches a cell with a non-zero neighboring mine count.
      - Restart: Players can click on the return key after winning/losing to restart the game with a new layout of mines
-   - **Learnings**: Game development, game design  
+   - **Learnings**: Game development, game design
+   https://github.com/jolin-yang/minesweeper-game
 
 2. 📝 **Wordle Game**  
    Designed a Wordle-inspired game with a unique spin and some added enhancements.  
