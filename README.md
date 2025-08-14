@@ -18,7 +18,8 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 - **Result**: Processed the Adult Census dataset (30k+ entries) to predict if a person’s income >50K, using feature engineering and model selection.
   - Trained, evaluated, and optimized four different classifiers: Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Decision Tree.
   - Obtained a final AUC of 0.92, log loss of 0.28, and accuracy of 0.87 on testing data.
-- **Learnings**: Building an end-to-end ML pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)   
+- **Learnings**: Building an end-to-end ML pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
+   
 https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier 
 
 
