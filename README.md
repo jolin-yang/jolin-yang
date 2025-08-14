@@ -1,5 +1,5 @@
 ##  👋 Hi there, I'm Jolin (she/her)!
-**🎓 Rising Sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
+**🎓 Sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
 👩🏻‍💻  Aspiring Software Engineer  
 🌐 Tech and data enthusiast** 
 
@@ -12,7 +12,14 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 <br>
 
 ## 🎯 **Featured Project**:  
-Coming soon!
+💵 **Census Income Classifier**
+Built an end-to-end ML classification pipeline predicting a person's income level. 
+- **Tech Stack**: Jupyter Notebook, Scikit-learn, Seaborn, Matplotlib, Pandas, and NumPy
+- **Result**: Processed the Adult Census dataset (30k+ entries) to predict if a person’s income >50K, using feature engineering and model selection.
+  - Trained, evaluated, and optimized four different classifiers: Logistic Regression, Decision Tree, Random Forest, and Gradient Boosted Decision Tree.
+  - Obtained a final AUC of 0.92, log loss of 0.28, and accuracy of 0.87 on testing data.
+- **Learnings**: Building an end-to-end ML pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
+
 
 <br>
 
