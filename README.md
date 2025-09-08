@@ -90,7 +90,7 @@ LinkedIn: https://www.linkedin.com/in/jolinyang/
 🌴 Northeastern Oasis - Co-Director of Marketing   
 💬 HackBeanpot - Sponsorship Coordinator  
 
-- During my free time, you can catch me listening to music, baking, going to the beach, reading, trying new boba places, and playing tennis!
+- During my free time, you can catch me listening to music, baking, going to the beach, reading, trying new boba spots, and playing tennis!
 
 <!--
 **jolin-yang/jolin-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
