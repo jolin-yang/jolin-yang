@@ -2,6 +2,7 @@
 **🎓 Sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
 👩🏻‍💻  Aspiring Software Engineer  
 🌐 Tech and data enthusiast** 
+🍜 Foodie
 
 I enjoy working with data and applying Machine Learning to develop impactful solutions that address real-world problems. My main goal is to leverage technology to make a difference in people's lives, with a focus on tackling algorithmic biases. I'm passionate about making today's tech space more inclusive and challenging the stereotypes that surround this industry. 
 
