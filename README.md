@@ -21,6 +21,8 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 - **Learnings**: Building an end-to-end ML pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jolin-yang&repo=btt-ml-foundations-census-income-classifier)](https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jolin-yang&repo=minesweeper-game)]([https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier](https://github.com/jolin-yang/minesweeper-game))
+
    
 
 <br>
