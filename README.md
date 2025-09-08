@@ -1,4 +1,4 @@
-##  👋 Hi there, I'm Jolin (she/her)!
+#  👋 Hi there, I'm Jolin (she/her)!
 **🎓 Sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
 👩🏻‍💻  Aspiring Software Engineer  
 🌐 Tech and data enthusiast** 
