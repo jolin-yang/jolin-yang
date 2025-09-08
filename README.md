@@ -22,8 +22,6 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jolin-yang&repo=btt-ml-foundations-census-income-classifier)](https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier)     
    
 
-<br>
-
 ## 🛠 Tech Stack: 
 **Languages**:   
 ![Static Badge](https://img.shields.io/badge/Java-purple?style=for-the-badge)
@@ -48,7 +46,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github)
 ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br>
+
 
 ## 🚀  Projects:
 Some (personal and school-related) projects I've worked on: 
@@ -72,7 +70,6 @@ Some (personal and school-related) projects I've worked on:
      - Best guess solver: outputs best guess for target word based on min average # of guesses and min duplicate scores to words in target bank
    - **Learnings**: Game development    
      
-<br>
 
 ## 📊 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact)
@@ -83,13 +80,11 @@ Some (personal and school-related) projects I've worked on:
 - ML + AI
 - React framework
 
-<br> 
 
 ## 📫 **How to Contact Me**:  
 Email: yang.jol@northeastern.edu  
 LinkedIn: https://www.linkedin.com/in/jolinyang/
 
-<br>
 
 ## ✨ **Extracurriculars + Interests**:  
 🌴 Northeastern Oasis - Co-Director of Marketing   
