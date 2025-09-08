@@ -73,6 +73,10 @@ Some (personal and school-related) projects I've worked on:
      
 <br>
 
+## 📊 Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact)
+
+
 ## 🌱 **What I'm Currently Learning/Working on**: 
 - Personal website!
 - ML + AI
@@ -87,7 +91,7 @@ LinkedIn: https://www.linkedin.com/in/jolinyang/
 <br>
 
 ## ✨ **Extracurriculars + Interests**:  
-📊 Northeastern Oasis - Co-Director of Marketing   
+🌴 Northeastern Oasis - Co-Director of Marketing   
 💬 HackBeanpot - Sponsorship Coordinator  
 
 - During my free time, you can catch me listening to music, baking, going to the beach, reading, trying new boba places, and playing tennis!
