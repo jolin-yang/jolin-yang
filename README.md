@@ -11,7 +11,7 @@ I'm eager to apply my skills to research or internship settings, where I'll be a
 
 <br>
 
-## 🎯 **Featured Project**:  
+## 📌 **Featured Project**:  
 💵 **Census Income Classifier** (https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier)     
 Built an end-to-end ML classification pipeline predicting a person's income level. 
 - **Tech Stack**: Jupyter Notebook, Scikit-learn, Seaborn, Matplotlib, Pandas, and NumPy
