@@ -1,6 +1,6 @@
 #  👋 Hi there, I'm Jolin (she/her)!
 **🎓 Sophomore @ Northeastern University, studying Computer Science with a concentration in AI   
-👩🏻‍💻  Aspiring Software Engineer  
+👩🏻‍💻  Aspiring Software or Machine Learning Engineer  
 🌐 Tech and data enthusiast**      
 🍜 **Foodie**
 
