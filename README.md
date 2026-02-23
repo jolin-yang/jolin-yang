@@ -35,35 +35,27 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 </p>
 
 <p align="center">
-<b>Data Science</b><br>
+<b>Web Dev:</b><br>
+<img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
+
+<p align="center">
+<b>Data Science:</b><br>
 <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Racket-%239F1D20?style=for-the-badge&logo=racket&logoColor=white" />
-</p>
-
-
-<p align="center">
-**Data Science**:    
-![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
-![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy) 
-![Static Badge](https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Static Badge](https://img.shields.io/badge/seaborn-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/matplotlib-navy?style=for-the-badge)    
+<img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/seaborn-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/matplotlib-navy?style=for-the-badge" />
 </p>
 
 <p align="center">
-**Web Dev**:    
-![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
-</p>
-
-<p align="center">
-**Tools**:   
-![Static Badge](https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Static Badge](https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github)
-![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+<b>Tools:</b><br>
+<img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 
