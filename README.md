@@ -21,6 +21,9 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 - **Learnings**: Building an end-to-end ML classification pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact)   
+<p align="center">
+  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 🛠 Tech Stack: 
 **Languages**:   
