@@ -97,8 +97,7 @@ LinkedIn: https://www.linkedin.com/in/jolinyang/
 
 
 ## ✨ **Extracurriculars + Interests**:  
-📚 Forge - Software Product Lab Member @ Reco-Op
-
+📚 Forge - Software Product Lab Member @ Reco-Op <br>
 🪙 Scout - Junior Software Developer @ TwoCents
 
 🌴 Northeastern Oasis - Co-Director of Marketing 
