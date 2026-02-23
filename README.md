@@ -98,8 +98,11 @@ LinkedIn: https://www.linkedin.com/in/jolinyang/
 
 ## ✨ **Extracurriculars + Interests**:  
 📚 Forge - Software Product Lab Member @ Reco-Op
+
 🪙 Scout - Junior Software Developer @ TwoCents
+
 🌴 Northeastern Oasis - Co-Director of Marketing 
+
 💻 HackBeanpot - Sponsorship Coordinator  
 
 - During my free time, you can catch me listening to music, baking, going to the beach, reading, trying new boba spots, and playing tennis!
