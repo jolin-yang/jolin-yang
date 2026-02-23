@@ -52,10 +52,10 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 
 <p align="center">
 <b>Tools</b><br>
-<img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 </p>
 
 
