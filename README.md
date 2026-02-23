@@ -23,7 +23,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=aditi-dheer&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🛠 Tech Stack: 
