@@ -28,7 +28,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 
 ## 🛠 Tech Stack: 
 <p align="center">
-Languages:  
+<br>**Languages**:</br><br>
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Racket-%239F1D20?style=for-the-badge&logo=racket&logoColor=white" />
