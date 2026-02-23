@@ -20,8 +20,10 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
   - Obtained a final AUC of 0.92, log loss of 0.28, and 87% accuracy on testing data after model selection.
 - **Learnings**: Building an end-to-end ML classification pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
 
-<p>
-  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=aditi-dheer&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🛠 Tech Stack: 
