@@ -39,6 +39,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
