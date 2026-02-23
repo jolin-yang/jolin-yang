@@ -73,8 +73,7 @@ Some (personal and school-related) projects I've worked on:
      
 
 ## 📊 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&count_private=true&cache_seconds=1800)
 
 ## 🌱 **What I'm Currently Learning/Working on**: 
 - Personal website!
