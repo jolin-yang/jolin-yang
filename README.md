@@ -20,12 +20,6 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
   - Obtained a final AUC of 0.92, log loss of 0.28, and 87% accuracy on testing data after model selection.
 - **Learnings**: Building an end-to-end ML classification pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 🛠 Tech Stack: 
 <p align="center">
 <b>Languages</b><br>
@@ -85,8 +79,11 @@ Some (personal and school-related) projects I've worked on:
    - **Learnings**: Game development    
      
 
-## 📊 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&count_private=true&cache_seconds=1800)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://stats-repo-gamma.vercel.app/api/top-langs/?username=jolin-yang&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ## 🌱 **What I'm Currently Learning/Working on**: 
 - Personal website!
