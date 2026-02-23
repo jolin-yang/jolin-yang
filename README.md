@@ -20,8 +20,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
   - Obtained a final AUC of 0.92, log loss of 0.28, and 87% accuracy on testing data after model selection.
 - **Learnings**: Building an end-to-end ML classification pipeline from scratch (data preprocessing, feature engineering, model evaluation + selection)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jolin-yang&repo=btt-ml-foundations-census-income-classifier)](https://github.com/jolin-yang/btt-ml-foundations-census-income-classifier)     
-   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolin-yang&layout=compact)   
 
 ## 🛠 Tech Stack: 
 **Languages**:   
