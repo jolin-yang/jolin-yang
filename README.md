@@ -35,6 +35,14 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 </p>
 
 <p align="center">
+<b>Data Science</b><br>
+<img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Racket-%239F1D20?style=for-the-badge&logo=racket&logoColor=white" />
+</p>
+
+
+<p align="center">
 **Data Science**:    
 ![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas)
 ![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy) 
