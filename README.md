@@ -35,14 +35,14 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 </p>
 
 <p align="center">
-<b>Web Dev:</b><br>
+<b>Web Dev</b><br>
 <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 <p align="center">
-<b>Data Science:</b><br>
+<b>Data Science</b><br>
 <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" />
 <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy" />
 <img src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -51,7 +51,7 @@ Built an end-to-end ML classification pipeline predicting a person's income leve
 </p>
 
 <p align="center">
-<b>Tools:</b><br>
+<b>Tools</b><br>
 <img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/google%20colab-%23F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github" />
